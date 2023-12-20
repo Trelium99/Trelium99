@@ -15,5 +15,3 @@ Jason_Best = {
             "phone": "061 810 1781",
   },
 }
-
-![Signature](https://github.com/Trelium99/Trelium99/assets/154448108/a3f78084-ef47-446c-b01e-414b94b19643)
