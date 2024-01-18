@@ -1,5 +1,5 @@
 ![LinkedIn Banner](https://github.com/Trelium99/Trelium99/assets/154448108/ffb8190a-545a-4787-8afa-fa1650a2836f)
-Hello There!, my name is Jason Best.
+Hello there, my name is Jason Best.
 I've made this GitHub profile as a coding portfolio.
 I'm currently working as a professional Nuke Compositor.
 My coding background education is self-taught coder.
